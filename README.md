@@ -1,1 +1,1 @@
-# Fake-News-and-Filter-Bubbles-simulation
+# Fake News and Filter Bubbles simulation
